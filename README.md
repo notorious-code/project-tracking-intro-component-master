@@ -2,11 +2,11 @@
 
 This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/project-tracking-intro-component-BFfy5j69ga).
 
-![Preview](./preview.jpg)
+![Preview](style-guide.md)
 
 ## 🚀 Live Preview
 
-👉 [View Site](https://yourusername.github.io/project-tracking-intro-component-master)
+👉 [View Site](https://notorious-code.github.io/project-tracking-intro-component-master/)
 
 ## 🛠️ Built With
 
