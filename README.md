@@ -2,7 +2,7 @@
 
 This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/project-tracking-intro-component-BFfy5j69ga).
 
-![Preview](style-guide.md)
+![Preview](active-states.jpg)
 
 ## 🚀 Live Preview
 
